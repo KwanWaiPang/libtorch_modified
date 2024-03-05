@@ -1,6 +1,6 @@
 # libtorch_modified
 
-*解决了using namespace std时的歧义问题
+* 解决了using namespace std时的歧义问题
 * 修改处请见libtorch修改gwp_modified
 * [原github issue](https://github.com/pytorch/pytorch/pull/45736))
 
